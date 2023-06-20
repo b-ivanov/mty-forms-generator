@@ -21,13 +21,3 @@ Path			| Type	| Description
 /users/create	| POST	| Endpoint for creating a new user
 /forms			| GET	| Endpoint for retrieving all forms
 /forms/:name	| GET	| Endpoint for retrieving a form by name
-
-
-/ - GET - Test endpoint to check if server is running
-/users - GET - 
-/users/:id - GET - 
-/forms - GET - 
-/forms/:name - GET - 
-
-/users/create - post
-/users/:id - put
