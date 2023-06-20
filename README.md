@@ -1,10 +1,8 @@
-# mty-forms-generator
-A simple project for generating forms with data, created during the "Mentor the young" program.
 # Forms generator
 A simple project for generating forms with data, created during the "Mentor the young" program.
 
 # Start up
-## Frontend
+### Frontend
 1. Navigate to the client folder and install all dependacies using:
 ```bash
 npm install
@@ -22,7 +20,7 @@ npm run build:watch
 npm run serve
 ```
 
-## Backend
+### Backend
 1. Navigate to the server folder and install all dependacies using:
 ```bash
 npm install
@@ -45,11 +43,11 @@ npm start
 ```
 
 # Tech stack
-## Frontend
+### Frontend
 - [Lit](https://lit.dev/)
 - [Web Components UI5](https://sap.github.io/ui5-webcomponents/)
 - [Zod](https://zod.dev/)
-## Backend
+### Backend
 - [TypeORM](https://typeorm.io/)
 - [MongoDB](https://www.mongodb.com/)
 - [Express JS](https://expressjs.com/)
